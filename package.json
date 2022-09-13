@@ -1,0 +1,18 @@
+{
+  "name": "api-two",
+  "version": "1.0.0",
+  "description": "API desenvolvida durante o curso da ROCKETSEAT",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/server.js",
+    "dev": "nodemon ./src/server.js"
+  },
+  "author": "Mewerton Melo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
