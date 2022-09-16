@@ -60,15 +60,3 @@ class UsersController{
 }
 
 module.exports = UsersController
-
-
-    
-    /*
-    CONTROLLER deve ter no máximo 5 métodos, são eles:
-
-    * Index -  GET para listar vários rgistros;
-    * show - GET para exibir um registro específico.
-    * create - POST para criar um registro.
-    * update - PUT para atualizar um registro.
-    * delete - DELETE para remover um registro.
-    */
